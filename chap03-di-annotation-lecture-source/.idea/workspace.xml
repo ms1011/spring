@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72f7bbaf-78a0-45e9-9ee0-481cade64194" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection03/collection/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection03/collection/PokemonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection04/resource/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection04/resource/PokemonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection05/inject/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection05/inject/PokemonService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
@@ -59,23 +57,23 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ohgiraffers.section02.annotation.subsection05.inject" />
       <recent name="com.ohgiraffers.section02.annotation.subsection04.resource" />
       <recent name="com.ohgiraffers.section02.annotation.subsection03.collection" />
       <recent name="com.ohgiraffers.section02.annotation.subsection02.qualifier" />
       <recent name="com.ohgiraffers.section02.annotation.subsection01.primary" />
-      <recent name="com.ohgiraffers.section01.autowired.subsection02.constructor" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ohgiraffers.section01.autowired.subsection03.setter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.ohgiraffers.section02.annotation.subsection04.resource.Application">
-    <configuration name="com.ohgiraffers.section01.autowired.subsection02.constructor.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section01.autowired.subsection02.constructor.Application" />
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section02.annotation.subsection05.inject.Application" />
       <module name="chap03-di-annotation-lecture-source.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ohgiraffers.section01.autowired.subsection02.constructor.*" />
+          <option name="PATTERN" value="com.ohgiraffers.section02.annotation.subsection05.inject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application" />
         <item itemvalue="Application.com.ohgiraffers.section02.annotation.subsection04.resource.Application" />
         <item itemvalue="Application.com.ohgiraffers.section02.annotation.subsection03.collection.Application" />
         <item itemvalue="Application.com.ohgiraffers.section02.annotation.subsection02.qualifier.Application" />
         <item itemvalue="Application.com.ohgiraffers.section02.annotation.subsection01.primary.Application" />
-        <item itemvalue="Application.com.ohgiraffers.section01.autowired.subsection02.constructor.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707795865450</updated>
       <workItem from="1707795866540" duration="10506000" />
-      <workItem from="1707868696909" duration="4619000" />
+      <workItem from="1707868696909" duration="5553000" />
     </task>
     <servers />
   </component>
