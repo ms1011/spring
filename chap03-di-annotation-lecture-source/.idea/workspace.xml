@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72f7bbaf-78a0-45e9-9ee0-481cade64194" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/common/Charmander.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/common/Pikachu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/common/Pokemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/common/Squirtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection01/primary/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection01/primary/PokemonService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection02/qualifier/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection02/qualifier/PokemonService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +56,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ohgiraffers.section02.annotation.subsection02.qualifier" />
       <recent name="com.ohgiraffers.section02.annotation.subsection01.primary" />
       <recent name="com.ohgiraffers.section01.autowired.subsection02.constructor" />
     </key>
@@ -68,7 +64,7 @@
       <recent name="com.ohgiraffers.section01.autowired.subsection03.setter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.ohgiraffers.section02.annotation.subsection01.primary.Application">
+  <component name="RunManager" selected="Application.com.ohgiraffers.section02.annotation.subsection02.qualifier.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section01.autowired.subsection01.field.Application" />
       <module name="chap03-di-annotation-lecture-source.main" />
@@ -108,8 +104,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.ohgiraffers.section02.annotation.subsection02.qualifier.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section02.annotation.subsection02.qualifier.Application" />
+      <module name="chap03-di-annotation-lecture-source.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section02.annotation.subsection02.qualifier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.ohgiraffers.section02.annotation.subsection02.qualifier.Application" />
         <item itemvalue="Application.com.ohgiraffers.section02.annotation.subsection01.primary.Application" />
         <item itemvalue="Application.com.ohgiraffers.section01.autowired.subsection02.constructor.Application" />
         <item itemvalue="Application.Application" />
@@ -132,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707795865450</updated>
       <workItem from="1707795866540" duration="10506000" />
-      <workItem from="1707868696909" duration="1874000" />
+      <workItem from="1707868696909" duration="2387000" />
     </task>
     <servers />
   </component>
