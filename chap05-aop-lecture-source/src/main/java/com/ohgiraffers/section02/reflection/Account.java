@@ -1,7 +1,7 @@
 package com.ohgiraffers.section02.reflection;
 
 public class Account {
-    private String backCode;
+    private String bankCode;
     private String accNo;
     private String accPwd;
     private int balance;
@@ -9,7 +9,7 @@ public class Account {
     public Account() {}
 
     public Account(String bankCode, String accNo, String accPwd) {
-        this.backCode = bankCode;
+        this.bankCode = bankCode;
         this.accNo = accNo;
         this.accPwd = accPwd;
     }
