@@ -4,6 +4,19 @@ import java.lang.reflect.*;
 
 public class Application {
     public static void main(String[] args) {
+        
+        /* 필기.
+         *  리플렉션(reflection)이란?
+         *   컴파일 된 자바 코드에서 역으로 클래스를 불러 메소드 및 필드 정보를 구해오는 방법이다
+         *   Spring, myBatis, Hibernate, jackson 등의 라이브러리에서 사용된다
+         *   Spring에서는 런타임 시 개발자가 등록한 빈을 애플리케이션 내에서 사용할 수 있게 하는 기술이기도 하다
+         *   
+         * 필기.
+         *  reflection은 강력한 도구이지만 무분별하게 사용해서는 안된다
+         *  1. 오버헤드 발생 : 성능 저하를 발생할 수 있기 때문에 민감한 애플리케이션에서는 사용하지 않는다
+         *  2. 캡슐화 저해 : private로 설정한 member(또는 필드)에 접근 가능하기 때문에 코드 기능이 저하되며
+         *                  여러가지 문제를 야기할 수 있다
+        * */
 
         /* 설명. 1. Class 타입의 Class 메타정보 추출 */
         Class class1 = Account.class;
